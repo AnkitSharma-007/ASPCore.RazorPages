@@ -1,0 +1,11 @@
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.0\EmployeeDemo.deps.json
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.0\EmployeeDemo.runtimeconfig.json
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.0\EmployeeDemo.runtimeconfig.dev.json
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.0\EmployeeDemo.dll
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\bin\Debug\netcoreapp2.0\EmployeeDemo.pdb
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.0\EmployeeDemo.csproj.CoreCompileInputs.cache
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.0\EmployeeDemo.AssemblyInfoInputs.cache
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.0\EmployeeDemo.AssemblyInfo.cs
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.0\EmployeeDemo.dll
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.0\EmployeeDemo.pdb
+C:\Users\ankit\source\repos\EmployeeDemo\EmployeeDemo\obj\Debug\netcoreapp2.0\EmployeeDemo.csprojResolveAssemblyReference.cache
